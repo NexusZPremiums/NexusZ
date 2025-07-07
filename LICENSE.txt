@@ -1,0 +1,13 @@
+Copyright (c) 2025 nexusz
+
+All rights reserved.
+
+This software is provided for personal use only. You are NOT allowed to:
+
+- Copy, redistribute, or resell this software
+- Modify, reverse engineer, or decompile this software
+- Bypass any protections, crack, or attempt to disable licensing mechanisms
+- Use this software in any form of commercial product or service
+- Share this software without explicit written permission from the author
+
+Violation of these terms may result in legal action.
